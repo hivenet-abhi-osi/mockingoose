@@ -37,6 +37,7 @@ const ops = [
   'deleteMany',
   'save',
   'aggregate',
+  'lean',
   '$save',
 ];
 
